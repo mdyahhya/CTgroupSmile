@@ -1,5 +1,5 @@
 {
-    "name": "SmileTracker - Daily Login Rewards",
+    "name": "SmileDaily - Daily Login Rewards",
     "short_name": "SmileTracker",
     "description": "AI-powered smile recognition app with daily login rewards and tech gifts from Continental Group",
     "start_url": "/",
@@ -12,49 +12,49 @@
     "categories": ["productivity", "health", "entertainment"],
     "icons": [
         {
-            "src": "/icon-72x72.png",
+            "src": "/smile.jpg",
             "sizes": "72x72",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/icon-96x96.png",
+            "src": "/smile.jpg",
             "sizes": "96x96",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/icon-128x128.png",
+            "src": "/smile.jpg",
             "sizes": "128x128",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/icon-144x144.png",
+            "src": "/smile.jpg",
             "sizes": "144x144",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/icon-152x152.png",
+            "src": "/smile.jpg",
             "sizes": "152x152",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/icon-192x192.png",
+            "src": "/smile.jpg",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/icon-384x384.png",
+            "src": "/smile.jpg",
             "sizes": "384x384",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/icon-512x512.png",
+            "src": "/smile.jpg",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable any"
